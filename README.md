@@ -3,6 +3,6 @@
 <p>Relação dos desafios concluídos no GoStack</p> 
 
 ## 📄 Nível 01. 
- 1. **[Conceitos do Node.js](desafio-conceitos-node)**
- 2. **[Front-end com ReactJS](conceitos-reactjs)**
+ 1. **[Conceitos do Node.js](https://github.com/lucaxsilveira/desafio-conceitos-node)**
+ 2. **[Front-end com ReactJS](https://github.com/lucaxsilveira/conceitos-reactjs)**
 
