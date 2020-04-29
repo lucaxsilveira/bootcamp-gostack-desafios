@@ -11,3 +11,11 @@
 1. **[Fundamentos Node.js](https://github.com/lucaxsilveira/desafio-fundamentos-nodejs)**
 2. **[Database upload](https://github.com/lucaxsilveira/template-typeorm-upload)**
 2. **[Fundamentos ReactJS](https://github.com/lucaxsilveira/fundamentos-reactjs)**
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) com os detalhes.
+
+---
+
+Rocketseat :wave:
